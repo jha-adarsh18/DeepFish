@@ -1,0 +1,20 @@
+# DeepFish - Caltech Fish Counting Dataset Configuration
+# Dataset configuration for YOLOv9 training
+
+# Dataset path (update this to your local path)
+path: ../datasets/caltech_fishcounting
+
+# Train/val/test splits
+train: images/train
+val: images/val
+test: images/test
+
+# Class names
+names:
+  0: fish
+
+# Number of classes
+nc: 1
+
+# Dataset type
+task: detect
