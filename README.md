@@ -79,5 +79,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 
-- [Caltech Fish Counting Dataset]([http://www.vision.caltech.edu/~dhall/projects/FishCounting/](https://github.com/visipedia/caltech-fish-counting))
+- [Caltech Fish Counting Dataset](https://github.com/visipedia/caltech-fish-counting)
 - [Ultralytics YOLO](https://github.com/ultralytics/ultralytics)
